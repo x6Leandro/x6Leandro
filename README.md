@@ -1,6 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
-
-## I'm Developer.
+## Enginer Developer.
 
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate with other content creators
