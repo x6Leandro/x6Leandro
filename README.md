@@ -10,6 +10,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/suwh78mqlt9qf1ofiwhgytper)
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="x6leandro.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -20,7 +22,6 @@
 
 <br />
 
----
 
 ### Languages and Tools:
 
