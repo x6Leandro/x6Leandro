@@ -58,7 +58,7 @@
 [twitter]: https://twitter.com/x6leandro
 [youtube]: https://youtube.com/x6leandro
 [instagram]: https://instagram.com/x6leandro
-[linkedin]: https://linkedin.com/in/x6leandro
+[linkedin]: https://www.linkedin.com/in/le%C3%A1ndro-developer-61b36a200/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
