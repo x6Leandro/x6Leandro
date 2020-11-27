@@ -5,15 +5,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I really like playing video games and doing live programming.
 
-<br />
-<br />
-
+---
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/suwh78mqlt9qf1ofiwhgytper)
-
-<br />
-<br />
 
 ### Connect with me:
 
