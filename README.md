@@ -1,7 +1,9 @@
 ## Developer.
 
 - 🌱 I’m currently learning C#
+
 - 👯 I’m looking to collaborate with other content creators
+
 - 📫 Contact me; **x6leandro@protonmail.com**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=x6leandro)
