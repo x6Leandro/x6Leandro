@@ -6,6 +6,9 @@
 - ⚡ Fun fact: I really like playing video games and doing live programming.
 
 ---
+
+![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/210328587318853632?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/210328587318853632?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/210328587318853632) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/210328587318853632) ![Profile Views](https://komarev.com/ghpvc/?username=x6leandro)
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/suwh78mqlt9qf1ofiwhgytper)
